@@ -1,0 +1,13 @@
+{
+  "name": "shebangify",
+  "version": "0.0.0",
+  "description": "Prepends node shebang to a file if it isn't there already.",
+  "main": "shebangify.js",
+  "author": {
+    "name": "Tim Stott",
+    "email": ""
+  },
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}

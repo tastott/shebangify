@@ -1,0 +1,4 @@
+*.dat
+*.ts
+bin
+obj
